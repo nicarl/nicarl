@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">I currently work as a software consultant at TNG Technology Consulting</h3>
+<h3 align="center">I currently work as a software engineer at TNG Technology Consulting</h3>
 
 - 🔭 I’m currently working on **building a [wiki](https://github.com/nicarl/beanpedia) for coffee roasteries**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **Next.js**
 
 - 📫 How to reach me **nicocarl@protonmail.com**
 
